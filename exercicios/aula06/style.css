@@ -1,0 +1,5 @@
+@charset "UTF-8";
+
+window.prompt {
+    width: 40px;
+}
